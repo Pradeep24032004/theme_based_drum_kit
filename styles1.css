@@ -1,0 +1,124 @@
+#btno1{
+    background-color:aqua;
+    width:160px;
+    height:160px;
+    position: relative;
+    top:260px;
+    left:170px;
+    padding:10px;
+    font-size: 80px;
+    background-image: url("images/tom1.png");
+    color:darkblue;
+    font-variant: inherit;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#btno2{
+    background-color:aqua;
+    width:160px;
+    height:160px;
+    position: relative;
+    top:260px;
+    left:170px;
+    padding:10px;
+    font-size: 80px;
+    background-image: url("images/tom2.png");
+    color:darkblue;
+    font-variant: inherit;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#btno3{
+    background-color:aqua;
+    width:160px;
+    height:160px;
+    position: relative;
+    top:260px;
+    left:170px;
+    padding:10px;
+    font-size: 80px;
+    background-image: url("images/tom3.png");
+    color:darkblue;
+    font-variant: inherit;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#btno4{
+    background-color:aqua;
+    width:160px;
+    height:160px;
+    position: relative;
+    top:260px;
+    left:170px;
+    padding:10px;
+    font-size: 80px;
+    background-image: url("images/tom4.png");
+    color:darkblue;
+    font-variant: inherit;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#btno5{
+    background-color:aqua;
+    width:160px;
+    height:160px;
+    position: relative;
+    top:260px;
+    left:170px;
+    padding:10px;
+    font-size: 80px;
+    background-image: url("images/crash.png");
+    color:darkblue;
+    font-variant: inherit;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#btno6{
+    background-color:aqua;
+    width:160px;
+    height:160px;
+    position: relative;
+    top:260px;
+    left:170px;
+    padding:10px;
+    font-size: 80px;
+    background-image: url("images/kick.png");
+    color:darkblue;
+    font-variant: inherit;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.btn{
+    background-color: crimson;
+    size: 90px;
+    width:95px;
+    height:55px;
+    left:700px;
+    top:450px;
+    position:relative;
+}
+#sel{
+    position:absolute;
+    left:290px;
+    width:160px;
+    bottom:50px;
+    height:30px;
+    background-color:lightskyblue;
+}
+h1{
+    position:absolute;
+    top:25px;
+    left:550px;
+    font-size: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:brown;
+}
+h3{
+    position:absolute;
+    left:290px;
+    width:160px;
+    bottom:60px;
+    height:30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    
+    background-color: wheat;
+    
+    
+}
